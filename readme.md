@@ -3,7 +3,7 @@
 ### NodeJS
 Качаем и устанавливаем последний NodeJS с оф.сайта: https://nodejs.org/en/
 
-**Установка модулей**
+### Установка модулей
 ```
 npm install tcp-ping
 npm install bugurt
